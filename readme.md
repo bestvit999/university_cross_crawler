@@ -35,7 +35,7 @@
 3. The decoder in it will take more time to extract IMAGE to TEXT (for full identifications)
 
 # result
-1. crawled dataframe will be saved to "./csv/{department_name_#ofpeople}.csv"
+1. crawled dataframe will be saved to "./csv/{department_name_#ofpeople}.csv"
     ```
     ./csv
     |_  人文暨科技跨領域學士學位學程41人.html
