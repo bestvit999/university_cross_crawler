@@ -38,8 +38,8 @@
 1. crawled dataframe will be saved to "./csv/{department_name_#ofpeople}.csv"
     ```
     ./csv
-    |_  人文暨科技跨領域學士學位學程41人.html
-    |_  中國文學系58人.html
-    |_  化學系58人.html
+    |_  人文暨科技跨領域學士學位學程41人.csv
+    |_  中國文學系58人.csv
+    |_  化學系58人.csv
     |_       ...
     ```
