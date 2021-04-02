@@ -18,9 +18,9 @@
     ```
 
 # how to run
-1. you need to manual collect the html file -> save to "./html" folder -> named as "nsysu_{i}.html"
+1. you need to manual collect the html file -> save to "./html/{year}" folder -> named as "nsysu_{i}.html"
     ```
-    ./html
+    ./html/109/
     |_  nsysu_1.html
     |_  nsysu_2.html
     |_  nsysu_3.html
@@ -35,9 +35,9 @@
 3. The decoder in it will take more time to extract IMAGE to TEXT (for full identifications)
 
 # result
-1. crawled dataframe will be saved to "./csv/{department_name_#ofpeople}.csv"
+1. crawled dataframe will be saved to "./csv/{year}/{department_name_#ofpeople}.csv"
     ```
-    ./csv
+    ./csv/109/
     |_  人文暨科技跨領域學士學位學程41人.csv
     |_  中國文學系58人.csv
     |_  化學系58人.csv
